@@ -1,4 +1,4 @@
-<h1 align="center"> DripDrop 💦 </h1> 
+<h1 align="center"> DripDrop </h1> 
 <h3 align="center"> Making Water accessible to all </h3>
 
 To view  live How to run this app, **[click here](https://www.youtube.com/watch?v=x3nJxGKv0t0&ab_channel=MugheesMb)**
