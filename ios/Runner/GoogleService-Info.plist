@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>209293867042-mra8a3ta3cnqvq23gednumq8lmmsu06i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.209293867042-mra8a3ta3cnqvq23gednumq8lmmsu06i</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>209293867042-79vsr4vhupa4e7s1nc4d07bf4m8bdl2j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbikqervP6aLe8pa3xoNGfpyEgcqXEXcE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>209293867042</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mapWater</string>
+	<key>PROJECT_ID</key>
+	<string>chatter-app-1fd07</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatter-app-1fd07.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:209293867042:ios:407f25bbba76a9dc29b27b</string>
+</dict>
+</plist>
