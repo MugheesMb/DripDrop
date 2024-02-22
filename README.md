@@ -43,6 +43,5 @@ $ flutter run
 
 ```
 # mr.mugy4@gmail.com
-# abdullahayaz529@gmail.com
 
 ```
